@@ -1,4 +1,5 @@
 # Prime Counter 
+This is an implementation for an assignment in an advanced programming course
 
 ## Instructions
 
